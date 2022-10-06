@@ -1,0 +1,2 @@
+#!/bin/bash
+od -t u1 BINARY
