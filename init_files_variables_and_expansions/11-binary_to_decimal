@@ -1,2 +1,2 @@
 #!/bin/bash
-od -t u1 BINARY
+echo "ibase=2;BINARY" | bc
